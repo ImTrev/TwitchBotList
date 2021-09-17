@@ -1,7 +1,7 @@
 # TwitchBotList
 List of all know hate raid/IP grabbing bots on twitch
 
-/ban h0ss00312
+/ban h0ss00312	
 /ban h0ss003122
 /ban hoss000312
 /ban hoss0031
